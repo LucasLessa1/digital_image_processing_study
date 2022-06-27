@@ -1,6 +1,6 @@
-PWD c:\Users\lucas\Documents\Semestres-ENE\6º Semestre\PDI\ComputerVision\ComputerVision
+PWD c:\Users\lucas\Documents\Semestres-ENE\6º Semestre\PDI\ComputerVision\ComputerVision\Anotations
 INPUT C:\Users\lucas\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\lucas\Documents\Semestres-ENE\6º Semestre\PDI\ComputerVision\ComputerVision\anotations.tex
+INPUT c:\Users\lucas\Documents\Semestres-ENE\6º Semestre\PDI\ComputerVision\ComputerVision\Anotations\anotations.tex
 OUTPUT anotations.log
 INPUT C:\Users\lucas\AppData\Local\Programs\MiKTeX\tex\latex\ieeetran\IEEEtran.cls
 INPUT C:\Users\lucas\AppData\Local\Programs\MiKTeX\tex\latex\ieeetran\IEEEtran.cls
@@ -759,6 +759,7 @@ INPUT C:\Users\lucas\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.
 INPUT C:\Users\lucas\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmrc7t.vf
 INPUT C:\Users\lucas\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Users\lucas\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\lucas\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
 INPUT anotations.aux
 INPUT .\anotations.out
 INPUT .\anotations.out

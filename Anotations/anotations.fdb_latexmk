@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1655908946 "c:/Users/lucas/Documents/Semestres-ENE/6º Semestre/PDI/ComputerVision/ComputerVision/anotations.tex" "anotations.pdf" "anotations" 1655908946
+["pdflatex"] 1656339094 "c:/Users/lucas/Documents/Semestres-ENE/6º Semestre/PDI/ComputerVision/ComputerVision/Anotations/anotations.tex" "anotations.pdf" "anotations" 1656339094
   "C:/Users/lucas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1654515906 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/lucas/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1653918910 10246961 750877ed2823f76d00857fa2a3e6c291 ""
   "C:/Users/lucas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -84,10 +84,10 @@
   "C:/Users/lucas/AppData/Local/Programs/MiKTeX/tex/latex/was/gensymb.sty" 1081519100 4755 29d19942d7123701aa6a3876b9ba11b1 ""
   "C:/Users/lucas/AppData/Local/Programs/MiKTeX/tex/latex/wasysym/wasysym.sty" 1579693002 11252 7fbfbe7bbcbe1f73acbe32ae2f10c666 ""
   "C:/Users/lucas/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1636284872 56029 3f7889dab51d620aa43177c391b7b190 ""
-  "anotations.aux" 1655908946 34 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "anotations.aux" 1656339094 34 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "anotations.out" 0 -1 0 "pdflatex"
-  "anotations.tex" 1655908933 1189 89b7fcdf9c27d2ab9d217e6d347af56b ""
-  "c:/Users/lucas/Documents/Semestres-ENE/6º Semestre/PDI/ComputerVision/ComputerVision/anotations.tex" 1655908933 1189 89b7fcdf9c27d2ab9d217e6d347af56b ""
+  "anotations.tex" 1656339087 2159 8f409d87efac355d173a27e002c161fd ""
+  "c:/Users/lucas/Documents/Semestres-ENE/6º Semestre/PDI/ComputerVision/ComputerVision/Anotations/anotations.tex" 1656339087 2159 8f409d87efac355d173a27e002c161fd ""
   (generated)
   "anotations.aux"
   "anotations.log"

@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.30)  22 JUN 2022 11:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.30)  27 JUN 2022 11:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/lucas/Documents/Semestres-ENE/6º Semestre/PDI/ComputerVision/ComputerVision/anotations.tex"
-(c:/Users/lucas/Documents/Semestres-ENE/6º Semestre/PDI/ComputerVision/ComputerVision/anotations.tex
+**"c:/Users/lucas/Documents/Semestres-ENE/6º Semestre/PDI/ComputerVision/ComputerVision/Anotations/anotations.tex"
+(c:/Users/lucas/Documents/Semestres-ENE/6º Semestre/PDI/ComputerVision/ComputerVision/Anotations/anotations.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24> (C:\Users\lucas\AppData\Local\Programs\MiKTeX\tex/latex/ieeetran\IEEEtran.cls
 Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
@@ -389,7 +389,7 @@ LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
 (Font)                  U/wasy/m/n --> U/wasy/b/n on input line 93.
 )
 
-c:/Users/lucas/Documents/Semestres-ENE/6º Semestre/PDI/ComputerVision/ComputerVision/anotations.tex:20: LaTeX Error: Option clash for package xcolor.
+c:/Users/lucas/Documents/Semestres-ENE/6º Semestre/PDI/ComputerVision/ComputerVision/Anotations/anotations.tex:20: LaTeX Error: Option clash for package xcolor.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -437,7 +437,7 @@ File: p2e-pdftex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
 \stm@phasewd=\skip62
 )
 
-c:/Users/lucas/Documents/Semestres-ENE/6º Semestre/PDI/ComputerVision/ComputerVision/anotations.tex:24: LaTeX Error: Option clash for package hyperref.
+c:/Users/lucas/Documents/Semestres-ENE/6º Semestre/PDI/ComputerVision/ComputerVision/Anotations/anotations.tex:24: LaTeX Error: Option clash for package hyperref.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -588,6 +588,31 @@ Package gensymb Warning: Not defining \micro.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--73
+
+ []
+
+
+Underfull \hbox (badness 2608) in paragraph at lines 44--73
+\OT1/ptm/m/n/10 The pil-low, or PIL li-brary is a po-pu-lar li-brary for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--73
+
+ []
+
 [1{C:/Users/lucas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
 
@@ -600,18 +625,18 @@ Package rerunfilecheck Warning: File `anotations.out' has changed.
 
 Package rerunfilecheck Info: Checksums for `anotations.out':
 (rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  9814C2D956916ADB9290ECA4E25C967A;103.
+(rerunfilecheck)             After:  8FDD407D0923B5FE378E8B736A4D8CAC;76.
  ) 
 Here is how much of TeX's memory you used:
  14230 strings out of 478582
- 232475 string characters out of 2844344
- 542870 words of memory out of 3000000
+ 232552 string characters out of 2844344
+ 547870 words of memory out of 3000000
  32244 multiletter control sequences out of 15000+600000
  496365 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,6n,63p,377b,342s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 60i,6n,63p,388b,344s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/lucas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/lucas/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
-Output written on anotations.pdf (1 page, 15210 bytes).
+Output written on anotations.pdf (1 page, 19204 bytes).
 PDF statistics:
  18 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
