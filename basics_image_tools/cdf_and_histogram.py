@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 import matplotlib.pyplot as plt
 
-car = cv2.imread('ImageTrabalho1/car.png', cv2.IMREAD_GRAYSCALE)
+car = cv2.imread('basics_image_tools/images/car.png', cv2.IMREAD_GRAYSCALE)
 plt.hist(car.ravel(), 256, [0, 256])
 plt.show()
 

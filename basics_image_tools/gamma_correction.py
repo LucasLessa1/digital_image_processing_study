@@ -10,9 +10,9 @@ def gammaCorrection(src, gamma):
     return cv2.LUT(src, table)
 
 
-car = cv2.imread('ImageTrabalho1/car.png')
-crowd = cv2.imread('ImageTrabalho1/crowd.png')
-university = cv2.imread('ImageTrabalho1/university.png')
+car = cv2.imread('basics_image_tools/images/car.png')
+crowd = cv2.imread('basics_image_tools/images/crowd.png')
+university = cv2.imread('basics_image_tools/images/university.png')
 
 
 # Car Image

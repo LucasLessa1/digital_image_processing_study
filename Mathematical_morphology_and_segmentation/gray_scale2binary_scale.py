@@ -3,7 +3,7 @@ import numpy as np
 
 # Load the grayscale image
 gray_image = cv2.imread(
-             'Trabalho_2/imagens_p2/morf_test.png',
+             'Mathematical_morphology_and_segmentation/images/morf_test.png',
              cv2.IMREAD_GRAYSCALE
 )
 
@@ -64,28 +64,17 @@ final_image = cv2.morphologyEx(
 cv2.imshow("Final Image", np.uint8(final_image))
 
 # Save the processed images to files
-cv2.imwrite("Trabalho_2/imagem_quest_2/gray_image.png",
-            gray_image)
-cv2.imwrite("Trabalho_2/imagem_quest_2/blurred_image.png",
-            blurred_image)
-cv2.imwrite("Trabalho_2/imagem_quest_2/binary_image.png",
-            binary_image)
-cv2.imwrite("Trabalho_2/imagem_quest_2/closed_image.png",
-            closed_image)
-cv2.imwrite("Trabalho_2/imagem_quest_2/image_difference.png",
-            image_difference)
-cv2.imwrite("Trabalho_2/imagem_quest_2/filtered_image.png",
-            filtered_image)
-cv2.imwrite("Trabalho_2/imagem_quest_2/filtered_binary_image.png",
-            filtered_binary_image)
-cv2.imwrite("Trabalho_2/imagem_quest_2/inverted_binary_image.png",
-            inverted_binary_image)
-cv2.imwrite("Trabalho_2/imagem_quest_2/opened_image.png",
-            opened_image)
-cv2.imwrite("Trabalho_2/imagem_quest_2/eroded_image.png",
-            eroded_image)
-cv2.imwrite("Trabalho_2/imagem_quest_2/final_image.png",
-            final_image)
+cv2.imwrite("gray_image.png", gray_image)
+cv2.imwrite("blurred_image.png", blurred_image)
+cv2.imwrite("binary_image.png", binary_image)
+cv2.imwrite("closed_image.png", closed_image)
+cv2.imwrite("image_difference.png", image_difference)
+cv2.imwrite("filtered_image.png", filtered_image)
+cv2.imwrite("filtered_binary_image.png", filtered_binary_image)
+cv2.imwrite("inverted_binary_image.png", inverted_binary_image)
+cv2.imwrite("opened_image.png", opened_image)
+cv2.imwrite("eroded_image.png", eroded_image)
+cv2.imwrite("final_image.png", final_image)
 
 # Wait for a key press and close all windows
 cv2.waitKey(0)

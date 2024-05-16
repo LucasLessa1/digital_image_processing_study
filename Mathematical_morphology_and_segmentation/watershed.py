@@ -2,8 +2,9 @@ import cv2
 import numpy as np
 
 # Load the grayscale image
-gray_image = cv2.imread('Trabalho_2/imagens_p2/img_cells.jpg',
-                        cv2.IMREAD_GRAYSCALE)
+gray_image = cv2.imread(
+    'Mathematical_morphology_and_segmentation/images/img_cells.jpg',
+    cv2.IMREAD_GRAYSCALE)
 
 # 3.1: Apply morphological closing with an elliptical kernel
 ellipse_kernel_8x8 = cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (8, 8))

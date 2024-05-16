@@ -58,8 +58,8 @@ def SUPERRES(image_1, image_2):
     return new_image
 
 
-image_1 = cv2.imread('ImageTrabalho1/fruit1.jpg')
-image_2 = cv2.imread('ImageTrabalho1/fruit2.jpg')
+image_1 = cv2.imread('basics_image_tools/images/fruit1.jpg')
+image_2 = cv2.imread('basics_image_tools/images/fruit2.jpg')
 
 new_image = SUPERRES(image_1, image_2)
 
